@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
